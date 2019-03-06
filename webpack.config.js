@@ -69,6 +69,7 @@ var options = {
     new WriteFilePlugin(),
     new CopyWebpackPlugin([
       'src/images/p1.png',
+      'src/images/p2.png',
     ]),
 
   ]
