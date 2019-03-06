@@ -70,6 +70,7 @@ var options = {
     new CopyWebpackPlugin([
       'src/images/p1.png',
       'src/images/p2.png',
+      'src/images/g1.png',
     ]),
 
   ]
